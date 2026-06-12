@@ -1,0 +1,6 @@
+{
+  "name": "RetentionInsights",
+  "description": "SQL-driven customer churn analytics and cohort retention platform with Python machine learning playbooks and Gemini AI strategic plays.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
